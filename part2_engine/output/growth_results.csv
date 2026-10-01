@@ -1,0 +1,11 @@
+category,comparison,previous_revenue,current_revenue,mom_pct,status
+Beauty & Personal Care,April to May,40737.01,35542.11,-12.75,flagged
+Beauty & Personal Care,May to June,35542.11,37559.07,5.67,not_flagged
+Ethnic Wear,April to May,104520.77,185107.61,77.1,flagged
+Ethnic Wear,May to June,185107.61,76371.53,-58.74,flagged
+Home & Kitchen,April to May,100446.23,91152.57,-9.25,flagged
+Home & Kitchen,May to June,91152.57,129971.22,42.59,flagged
+Kids Wear,April to May,59847.27,45793.78,-23.48,flagged
+Kids Wear,May to June,45793.78,56737.78,23.9,flagged
+Western Wear,April to May,113866.15,86998.18,-23.6,flagged
+Western Wear,May to June,86998.18,97415.64,11.97,flagged
